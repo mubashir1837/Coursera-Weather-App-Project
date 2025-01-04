@@ -4,13 +4,14 @@ A simple and intuitive weather application that provides live weather updates fo
 
 ## Demo
 
-View a live demo of the application here: [Demo](./img/weather.gif)
+View a live demo of the application here: ![Demo Project](./img/weather.gif)
 
 ## Project Link
-Checkout my project here [Link](https://pk-weather.vercel.app/)
+Checkout my project here ![Link](https://pk-weather.vercel.app/)
 
 
 ## Features
+
 
 - **City Selection**: Choose from a list of cities, including Islamabad, Lahore, Karachi, Gilgit, and Abbottabad.
 - **Live Weather Updates**: Fetch real-time weather data based on the selected city's geographic coordinates (latitude and longitude).
