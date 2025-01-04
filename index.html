@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pakistan Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Hero Section -->
+    <img src="img/banner.jpg" alt="Weather App Banner" class="hero">
+
+    <!-- Heading -->
+    <h1 class="section-heading">Pakistan Weather App</h1>
+    <p class="section-subheading">Select your city to view live weather updates</p>
+
+    <!-- Dropdown Menu -->
+    <select id="citySelected">
+      <option value="" disabled selected>Select a city</option>
+      <option value='{"lat":33.6844, "lon":73.0479}'>Islamabad</option>
+      <option value='{"lat":31.5497, "lon":74.3436}'>Lahore</option>
+      <option value='{"lat":24.8607, "lon":67.0011}'>Karachi</option>
+      <option value='{"lat":35.8253, "lon":74.6369}'>Gilgit</option>
+      <option value='{"lat":34.1663, "lon":73.2215}'>Abbottabad</option>
+    </select>
+
+    <!-- Results Section -->
+    <div id="results"></div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>Made with ❤️ by <a href="https://www.linkedin.com/in/mubashirali3/" target="_blank">Mubashir Ali</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
