@@ -4,10 +4,10 @@ A simple and intuitive weather application that provides live weather updates fo
 
 ## Demo
 
-View a live demo of the application here: ![Demo Project](./img/weather.gif)
+ ![Demo Project](./img/weather.gif)
 
 ## Project Link
-Checkout my project here ![Link](https://pk-weather.vercel.app/)
+Checkout my project here [Link](https://pk-weather.vercel.app/)
 
 
 ## Features
