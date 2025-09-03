@@ -35,3 +35,6 @@ To set up and run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/mubashir1837/Coursera-Weather-App-Project.git
+
+
+Mubashir Ali - Founder @ Code with Bismillah | Aspiring Bioinformatics & Data Science Professional | Bridging Biology & Data | Researcher | Genomics, Machine Learning, AI | Python, R, Bioinformatics Tools
